@@ -1,5 +1,7 @@
 # @juliachan/randomid-generator
 
+https://www.npmjs.com/package/@juliachan/randomid-generator
+
 The first simples package implemented to generated random ID
 
 ## 1. What Does it do?
